@@ -9,9 +9,11 @@ These projects are built with *HTML, CSS, JavaScript, React, and Next* to practi
 
 ### ☕ Coffee App
 A modern coffee shop UI design showcasing product cards, menus, and a responsive layout.
+View live : https://rimsha-shoukat.github.io/ui-projects/coffee-app/
 
 ### 🌐 Socially Landing Page
 A sleek landing page for a social platform with responsive sections, call-to-action buttons, and engaging visuals.
+View live : https://rimsha-shoukat.github.io/ui-projects/socially-landing-page/
 
 ---
 

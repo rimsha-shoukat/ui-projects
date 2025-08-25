@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/coffee-app/static/css/main.609749cc.css",
-    "main.js": "/coffee-app/static/js/main.186b2324.js",
-    "static/js/488.da0b5029.chunk.js": "/coffee-app/static/js/488.da0b5029.chunk.js",
-    "index.html": "/coffee-app/index.html",
-    "main.609749cc.css.map": "/coffee-app/static/css/main.609749cc.css.map",
-    "main.186b2324.js.map": "/coffee-app/static/js/main.186b2324.js.map",
-    "488.da0b5029.chunk.js.map": "/coffee-app/static/js/488.da0b5029.chunk.js.map"
+    "main.css": "/ui-projects/coffee-app/static/css/main.609749cc.css",
+    "main.js": "/ui-projects/coffee-app/static/js/main.6005db11.js",
+    "static/js/488.da0b5029.chunk.js": "/ui-projects/coffee-app/static/js/488.da0b5029.chunk.js",
+    "index.html": "/ui-projects/coffee-app/index.html",
+    "main.609749cc.css.map": "/ui-projects/coffee-app/static/css/main.609749cc.css.map",
+    "main.6005db11.js.map": "/ui-projects/coffee-app/static/js/main.6005db11.js.map",
+    "488.da0b5029.chunk.js.map": "/ui-projects/coffee-app/static/js/488.da0b5029.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.609749cc.css",
-    "static/js/main.186b2324.js"
+    "static/js/main.6005db11.js"
   ]
 }

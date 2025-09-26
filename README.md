@@ -27,7 +27,6 @@ These projects are created to:
 
 ---
 
-## 💡 How to Use
-1. Clone this repository:  
+## Clone this repository: 
    ```bash
    git clone https://github.com/rimsha-shoukat/ui-projects.git
